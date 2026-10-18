@@ -1,2 +1,2 @@
 # MiPrimerProyectoWeb
-Proyecto académico de desarrollo web en HTML5 sobre Arte y Tecnología.
+Proyecto académico de desarrollo web desarrollado con HTML5, CSS y JavaScript, utilizando como tema principal el arte y la tecnología
